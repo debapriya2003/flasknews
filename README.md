@@ -8,8 +8,6 @@ It has two main components:
 1. **Flask API** – Fetches and serves stored news articles from MongoDB.
 2. **Streamlit Dashboard** – Allows adding new news articles and optionally viewing existing ones.
 
----
-
 ## 🚀 Features
 
 * **Backend (Flask + MongoDB)**
