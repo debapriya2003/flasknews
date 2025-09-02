@@ -64,7 +64,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/news-app.git
+git clone https://github.com/debapriya2003/news-app.git
 cd news-app
 ```
 
